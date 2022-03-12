@@ -38,6 +38,6 @@ putchar(' ');
 }
 }
 }
-putchar(10);
-return (0);
-}
+putchar(...10);
+(return (0);
+(}
