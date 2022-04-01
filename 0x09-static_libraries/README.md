@@ -1,6 +1,6 @@
 # C - Static libraries
 
-In this project, I learned what static libraries are and practiced creating and
+In this project, I learned what static libraries are and I also learned how to work with them, practiced creating and
 using them with `ar`, `ranlib`, and `nm`.
 
 ## Tests :heavy_check_mark:
