@@ -1,4 +1,6 @@
-Auth: Nashief Robertson Darko 
+/*
+ *File: 1-print_numbers.c
+ *Auth: Nashief Robertson Darko 
  */
 
 #include "variadic_functions.h"
