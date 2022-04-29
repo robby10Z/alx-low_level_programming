@@ -1,6 +1,6 @@
 # C - Bit manipulation
 
-In this project, I learned how to manipulate bits and use the
+In this project,Nashief,  I learned how to manipulate bits and use the
 bitwise operators `>>`, `<<`, `&`, `|`, and `^` in C.
 
 ## Header File :file_folder:
